@@ -1,0 +1,116 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//tax-obligations-calendar//EN
+BEGIN:VEVENT
+UID:2026-08-0@tax-obligations-calendar
+DTSTAMP:20261112T193410Z
+DTSTART;VALUE=DATE:20260915
+SUMMARY:eSocial periodic events (payroll closing) - Aurora Distribuidora
+DESCRIPTION:Competence 2026-08. Team: Payroll. eSocial guidance manual: day 15; postponed to the next business day
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-1@tax-obligations-calendar
+DTSTAMP:20261112T193410Z
+DTSTART;VALUE=DATE:20260915
+SUMMARY:EFD-Reinf - Bussola Software
+DESCRIPTION:Competence 2026-08. Team: Tax. Day 15 of the following month (check the current IN for rolling)
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-2@tax-obligations-calendar
+DTSTAMP:20261112T193410Z
+DTSTART;VALUE=DATE:20260915
+SUMMARY:eSocial periodic events (payroll closing) - Bussola Software
+DESCRIPTION:Competence 2026-08. Team: Payroll. eSocial guidance manual: day 15; postponed to the next business day
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-3@tax-obligations-calendar
+DTSTAMP:20261112T193410Z
+DTSTART;VALUE=DATE:20260915
+SUMMARY:EFD-Reinf - Cedro Engenharia
+DESCRIPTION:Competence 2026-08. Team: Tax. Day 15 of the following month (check the current IN for rolling)
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-4@tax-obligations-calendar
+DTSTAMP:20261112T193410Z
+DTSTART;VALUE=DATE:20260915
+SUMMARY:eSocial periodic events (payroll closing) - Cedro Engenharia
+DESCRIPTION:Competence 2026-08. Team: Payroll. eSocial guidance manual: day 15; postponed to the next business day
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-5@tax-obligations-calendar
+DTSTAMP:20261112T193410Z
+DTSTART;VALUE=DATE:20260918
+SUMMARY:FGTS Digital - Aurora Distribuidora
+DESCRIPTION:Competence 2026-08. Team: Payroll. Lei 8.036/1990, art. 15: day 20; anticipated when not a business day
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-6@tax-obligations-calendar
+DTSTAMP:20261112T193410Z
+DTSTART;VALUE=DATE:20260918
+SUMMARY:FGTS Digital - Bussola Software
+DESCRIPTION:Competence 2026-08. Team: Payroll. Lei 8.036/1990, art. 15: day 20; anticipated when not a business day
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-7@tax-obligations-calendar
+DTSTAMP:20261112T193410Z
+DTSTART;VALUE=DATE:20260918
+SUMMARY:FGTS Digital - Cedro Engenharia
+DESCRIPTION:Competence 2026-08. Team: Payroll. Lei 8.036/1990, art. 15: day 20; anticipated when not a business day
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-8@tax-obligations-calendar
+DTSTAMP:20261112T193410Z
+DTSTART;VALUE=DATE:20260918
+SUMMARY:INSS and payroll IRRF (DARF from DCTFWeb) - Cedro Engenharia
+DESCRIPTION:Competence 2026-08. Team: Tax. Federal DARF: day 20, anticipated when not a business day
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-9@tax-obligations-calendar
+DTSTAMP:20261112T193410Z
+DTSTART;VALUE=DATE:20260921
+SUMMARY:PGDAS-D and DAS (Simples Nacional) - Aurora Distribuidora
+DESCRIPTION:Competence 2026-08. Team: Tax. Resolução CGSN 140/2018, art. 40: day 20; if no banking day, the next business day
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-10@tax-obligations-calendar
+DTSTAMP:20261112T193410Z
+DTSTART;VALUE=DATE:20260921
+SUMMARY:PGDAS-D and DAS (Simples Nacional) - Bussola Software
+DESCRIPTION:Competence 2026-08. Team: Tax. Resolução CGSN 140/2018, art. 40: day 20; if no banking day, the next business day
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-11@tax-obligations-calendar
+DTSTAMP:20261112T193410Z
+DTSTART;VALUE=DATE:20260921
+SUMMARY:PGDAS-D and DAS (Simples Nacional) - Delta Clinica
+DESCRIPTION:Competence 2026-08. Team: Tax. Resolução CGSN 140/2018, art. 40: day 20; if no banking day, the next business day
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-12@tax-obligations-calendar
+DTSTAMP:20261112T193410Z
+DTSTART;VALUE=DATE:20260925
+SUMMARY:PIS/COFINS - Cedro Engenharia
+DESCRIPTION:Competence 2026-08. Team: Tax. Day 25 of the following month, anticipated when not a business day
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-13@tax-obligations-calendar
+DTSTAMP:20261112T193410Z
+DTSTART;VALUE=DATE:20260930
+SUMMARY:DCTFWeb filing - Aurora Distribuidora
+DESCRIPTION:Competence 2026-08. Team: Tax. IN RFB 2.248/2025: last business day of the following month
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-14@tax-obligations-calendar
+DTSTAMP:20261112T193410Z
+DTSTART;VALUE=DATE:20260930
+SUMMARY:DCTFWeb filing - Bussola Software
+DESCRIPTION:Competence 2026-08. Team: Tax. IN RFB 2.248/2025: last business day of the following month
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-15@tax-obligations-calendar
+DTSTAMP:20261112T193410Z
+DTSTART;VALUE=DATE:20260930
+SUMMARY:DCTFWeb filing - Cedro Engenharia
+DESCRIPTION:Competence 2026-08. Team: Tax. IN RFB 2.248/2025: last business day of the following month
+END:VEVENT
+END:VCALENDAR
