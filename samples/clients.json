@@ -1,0 +1,8 @@
+{
+  "clients": [
+    {"name": "Aurora Distribuidora", "regime": "simples", "has_employees": true, "has_retentions": false},
+    {"name": "Bussola Software", "regime": "simples", "has_employees": true, "has_retentions": true},
+    {"name": "Cedro Engenharia", "regime": "lucro_presumido", "has_employees": true, "has_retentions": true},
+    {"name": "Delta Clinica", "regime": "simples", "has_employees": false, "has_retentions": false}
+  ]
+}
