@@ -1,0 +1,69 @@
+{
+  "_note": "Federal monthly routines for the competence month M, due in month M+1 unless stated. Review every year: due dates and rolling rules change by regulation.",
+  "rules": [
+    {
+      "name": "PGDAS-D and DAS (Simples Nacional)",
+      "team": "Tax",
+      "applies_to": {"regimes": ["simples"]},
+      "due": {"day": 20},
+      "roll": "next",
+      "source": "Resolução CGSN 140/2018, art. 40: day 20; if no banking day, the next business day"
+    },
+    {
+      "name": "eSocial periodic events (payroll closing)",
+      "team": "Payroll",
+      "applies_to": {"has_employees": true},
+      "due": {"day": 15},
+      "roll": "next",
+      "source": "eSocial guidance manual: day 15; postponed to the next business day"
+    },
+    {
+      "name": "EFD-Reinf",
+      "team": "Tax",
+      "applies_to": {"has_retentions": true},
+      "due": {"day": 15},
+      "roll": "next",
+      "source": "Day 15 of the following month (check the current IN for rolling)"
+    },
+    {
+      "name": "FGTS Digital",
+      "team": "Payroll",
+      "applies_to": {"has_employees": true},
+      "due": {"day": 20},
+      "roll": "previous",
+      "source": "Lei 8.036/1990, art. 15: day 20; anticipated when not a business day"
+    },
+    {
+      "name": "INSS and payroll IRRF (DARF from DCTFWeb)",
+      "team": "Tax",
+      "applies_to": {"has_employees": true, "regimes": ["lucro_presumido", "lucro_real"]},
+      "due": {"day": 20},
+      "roll": "previous",
+      "source": "Federal DARF: day 20, anticipated when not a business day"
+    },
+    {
+      "name": "DCTFWeb filing",
+      "team": "Tax",
+      "applies_to": {"has_employees": true},
+      "due": {"last_business_day": true},
+      "roll": "none",
+      "source": "IN RFB 2.248/2025: last business day of the following month"
+    },
+    {
+      "name": "PIS/COFINS",
+      "team": "Tax",
+      "applies_to": {"regimes": ["lucro_presumido", "lucro_real"]},
+      "due": {"day": 25},
+      "roll": "previous",
+      "source": "Day 25 of the following month, anticipated when not a business day"
+    },
+    {
+      "name": "IRPJ/CSLL (quarterly)",
+      "team": "Tax",
+      "applies_to": {"regimes": ["lucro_presumido"]},
+      "due": {"last_business_day": true, "competence_months": [3, 6, 9, 12]},
+      "roll": "none",
+      "source": "Quarterly tax: last business day of the month after the quarter ends"
+    }
+  ]
+}
